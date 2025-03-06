@@ -1,3 +1,4 @@
+// Generating Fibonacci Sequence up to N Terms with While Loop
 
 let N = 8;
 function fibonacci(n) {
