@@ -10,7 +10,7 @@ while (i <= N) {
     i++; 
 }
 
-console.log("Sum of first", N, "natural numbers is:", sum);
+console.log(sum);
 
 // Trying to declare N as a global variable to see hoe it behave in a function
 
@@ -28,5 +28,5 @@ function sumNaturalNumbers(n) {
     return sum;
 }
 
-console.log("Sum of first", n, "natural numbers:", sumNaturalNumbers(n));
+console.log(sumNaturalNumbers(n));
 
