@@ -1,6 +1,6 @@
 // Finding the Largest Digit in a Number Using While Loop
 
-let n = 1234564;
+let n = 12345694;
 
 function ftLd(n) {
     let largest = 0; 
